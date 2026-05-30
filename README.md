@@ -27,7 +27,7 @@ A modern Book Finder web application built using HTML, CSS, and JavaScript with 
 
 
 
-BookVerse | HTML, CSS, JavaScript, Open Library API
+# BookVerse | HTML, CSS, JavaScript, Open Library API
 
 Developed a responsive book discovery platform with voice search, favorites, reading list, ratings, and search history.
 Integrated Open Library API for real-time book search and details retrieval.
